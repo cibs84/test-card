@@ -1,0 +1,9 @@
+.container {
+    width: 200px;
+    height: 500px;
+    border: 1px solid red;
+}
+
+.container img {
+    max-width: 100%;
+}
